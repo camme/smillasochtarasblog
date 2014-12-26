@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DW Timeline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Dec 26 2014 17:34:23 GMT+0100 (CET)\n"
+"PO-Revision-Date: Fri Dec 26 2014 17:34:38 GMT+0100 (CET)\n"
+"Last-Translator: camilo.tapia <camilo.tapia@gmail.com>\n"
+"Language-Team: \n"
+"Language: Swedish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: sv_SE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: /index.php:2
+msgid "Page 1"
+msgstr ""
+
+#: /index.php:15
+msgid "Page"
+msgstr ""
+
+#: /index.php:28
+msgid "&larr; Older posts"
+msgstr ""
+
+#: /index.php:29
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: /404.php:3
+#, php-format
+msgid "You have found a missing time plot. %1$s Back in %2$s Home %3$s"
+msgstr ""
+
+#: /templates/content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: /templates/content-none.php:7
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: /templates/content.php:14
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: /templates/content-single.php:9
+msgid "Pages:"
+msgstr ""
+
+#: /templates/content-single.php:13
+msgid ", "
+msgstr ""
+
+#: /templates/content-single.php:17
+msgid "Tags: "
+msgstr ""
+
+#: /templates/content-single.php:19
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: /templates/entry-meta.php:5
+msgid "By"
+msgstr "Av"
+
+#: /templates/entry-meta.php:9
+msgid "On"
+msgstr ""
+
+#: /templates/entry-meta.php:11
+msgid "In"
+msgstr ""
+
+#: /templates/comment.php:5
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /templates/comment.php:11
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /templates/comment.php:19
+#, php-format
+msgid "%s Reply"
+msgstr ""
+
+#: /templates/comment.php:21
+#, php-format
+msgid "%s edit"
+msgstr ""
+
+#: /templates/comments.php:10
+#, php-format
+msgid "One Response to &ldquo; %2$s &rdquo;"
+msgid_plural "%1$s Responses to &ldquo; %2$s &rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /templates/comments.php:25
+msgid "&larr; Older comments"
+msgstr ""
+
+#: /templates/comments.php:28
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: /templates/comments.php:36 /templates/comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: /templates/comments.php:57 /templates/comments.php:58
+msgid "Name"
+msgstr ""
+
+#: /templates/comments.php:62 /templates/comments.php:63
+msgid "Email"
+msgstr ""
+
+#: /templates/comments.php:68 /templates/comments.php:69
+msgid "Website"
+msgstr ""
+
+#: /templates/comments.php:73
+msgid "Comment"
+msgstr ""
+
+#: /templates/comments.php:73
+msgid "Write your comment"
+msgstr ""
+
+#: /templates/searchform.php:3 /templates/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: /templates/searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#: /lib/scripts.php:24
+msgid "page"
+msgstr ""
+
+#: /lib/scripts.php:25
+msgid "the end"
+msgstr ""
+
+#: /lib/custom.php:24
+msgid "Post Settings"
+msgstr ""
+
+#: /lib/custom.php:40
+msgid "Select Grid"
+msgstr ""
+
+#: /lib/custom.php:45
+msgid "Normal"
+msgstr ""
+
+#: /lib/custom.php:52
+msgid "Full"
+msgstr ""
+
+#: /lib/titles.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: /lib/titles.php:21
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: /lib/titles.php:23
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /lib/titles.php:26
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: /lib/titles.php:31
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: /lib/titles.php:33
+msgid "Not Found"
+msgstr ""
+
+#: /lib/customizer.php:10
+msgid "Default"
+msgstr ""
+
+#: /lib/customizer.php:35
+msgid "Get Start Button"
+msgstr ""
+
+#: /lib/customizer.php:47
+msgid "Site Favicon"
+msgstr ""
+
+#: /lib/customizer.php:54
+msgid "Cover image"
+msgstr ""
+
+#: /lib/customizer.php:64
+msgid "Header Image"
+msgstr ""
+
+#: /lib/customizer.php:75
+msgid "Header mask"
+msgstr ""
+
+#: /lib/customizer.php:96
+msgid "Site title background"
+msgstr ""
+
+#: /lib/customizer.php:104
+msgid "Font Selector"
+msgstr ""
+
+#: /lib/customizer.php:124
+msgid "Headding font"
+msgstr ""
+
+#: /lib/customizer.php:137
+msgid "Content font"
+msgstr ""
+
+#: /lib/customizer.php:145
+msgid "Custom Code"
+msgstr ""
+
+#: /lib/customizer.php:155
+msgid "Header Code (Meta tags, CSS, etc ...)"
+msgstr ""
+
+#: /lib/customizer.php:166
+msgid "Footer Code (Analytics, etc ...)"
+msgstr ""
+
+#: /lib/init.php:11
+msgid "Primary Navigation"
+msgstr ""
